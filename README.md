@@ -9,6 +9,6 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 
 
 Pre-requisites:
-IAM must be set up before:
-- Provisioning a new instance of Watson Assistant Plus/Premium 
-- Upgrading to the Plus/Premium plans on a Cloud Foundry Watson Assistant service
+- IAM must be set up before:
+  * Provisioning a new instance of Watson Assistant Plus/Premium 
+  * Upgrading to the Plus/Premium plans on a Cloud Foundry Watson Assistant service
