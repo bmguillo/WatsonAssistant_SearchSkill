@@ -1,6 +1,6 @@
 # Using Watson Assistant to perform Long Tail Search in Watson Discovery
 
-In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a search skill. The dialog skill is what was previously known as short tail search. The search skill now provides a means of performing a long tail search using Watson Discovery integration. 
+In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a search skill(beta). The dialog skill is what was previously known as short tail search. The search skill now provides a means of performing a long tail search using Watson Discovery integration. 
 
 
 - Short tail: Explicit responses that you provide to the most frequently asked questions (within the dialog skill).<br>
