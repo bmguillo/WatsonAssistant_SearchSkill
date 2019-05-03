@@ -7,16 +7,24 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 
 ## Basic Review of Concepts
 - Short tail: Explicit responses that you provide to the most frequently asked questions (within the dialog skill).<br>
-
 - Long tail: Provides relevant links to content when dialog nodes do not match the user’s question, can be achieved with the                      "if anything else/search skill trigger" https://cloud.ibm.com/docs/services/assistant?topic=assistant-skill-search-add or an explicit call to do a search on a subset of documents triggering on a specific entity e.g. product
 
 
 ## Pre-requisites:
-- IAM must be set up before provisioning a new instance of Watson Assistant Plus/Premium 
-- Migration of the Cloud Foundry Watson Assistant service must be completed prior to upgrading to the Plus/Premium and existing Watson Assistant premium customers must migrate to IAM by June 2019. 
+- IAM must be set up before provisioning a new instance of Watson Assistant Plus/Premium and Watson Discovery
+- Migration of the Cloud Foundry Watson Assistant/Watson Discovery service must be completed prior to upgrading to the Plus/Premium and existing Watson Assistant premium customers must migrate to IAM by June 2019. 
+-See link: https://github.com/bmguillo/IAM_Tutorial
   
   
-## 3 step process for 
+## 3 step tutorial for setting up long tail search
+
+
+### Step1 Create an Assistant https://cloud.ibm.com/docs/services/assistant?topic=assistant-assistant-add
+
+### Step2 Create your skill(s)  https://cloud.ibm.com/docs/services/assistant?topic=assistant-skill-add
+
+### Step3 Connect to an Existing Watson Discovery Service or Provision a new instance of Watson Discovery https://cloud.ibm.com/docs/services/assistant?topic=assistant-skill-search-add
+
   
   
 
