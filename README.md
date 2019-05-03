@@ -2,7 +2,7 @@
 
 ## Reasons for Implementing Long Tail Search in Watson Assistant
 
-In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a search skill(beta) currently. Previously, there was only built-in capability for short tail search using the dialog skill. The search skill now provides a means of performing a long tail search using Watson Discovery integration for self-service.More reasons for implementing long tail search in Watson Assistant can be found in this blog: https://medium.com/ibm-watson/adding-search-to-watson-assistant-99e4e81839e5
+In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a search skill(beta) currently. Previously, there was only built-in capability for short tail search using the dialog skill. The search skill now provides a means of performing a long tail search using Watson Discovery integration for self-service.More reasons for implementing long tail search in Watson Assistant can be found in this [blog:](https://medium.com/ibm-watson/adding-search-to-watson-assistant-99e4e81839e5) 
 
 
 ## Basic Review of Concepts
