@@ -19,9 +19,9 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 ## 3 step tutorial for setting up long tail search
 
 
-### Step1 Create an Assistant https://cloud.ibm.com/docs/services/assistant?topic=assistant-assistant-add
+### Step1 [Create an Assistant](https://cloud.ibm.com/docs/services/assistant?topic=assistant-assistant-add)  
 
-### Step2 Create your skill(s)  https://cloud.ibm.com/docs/services/assistant?topic=assistant-skill-add
+### Step2  [Create your skill(s)](https://cloud.ibm.com/docs/services/assistant?topic=assistant-skill-add)  
 
 ### Step3 Connect to Discovery
 * Connect to an Existing Watson Discovery Service and Existing Collection(Data Source connection or document upload) or Create new Collection
