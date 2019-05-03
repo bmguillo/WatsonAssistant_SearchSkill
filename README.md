@@ -39,7 +39,8 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 
 
 ### Other Development Considerations
-- [Development process:](https://cloud.ibm.com/docs/services/assistant?topic=assistant-dev-process)
+- [Search Skill Code Sample](https://github.com/rhagarty/watson-discovery-sdu-with-assistant-search-skill)
+- [Development process](https://cloud.ibm.com/docs/services/assistant?topic=assistant-dev-process)
 - [Creation of skill versions](https://cloud.ibm.com/docs/services/assistant?topic=assistant-versions)
 - [Improvement via active interactions with assistant](https://cloud.ibm.com/docs/services/assistant?topic=assistant-logs#logs-deploy-id)
 - [Continuous Improvement](https://github.com/bmguillo/WatsonAssistant_SearchSkill/blob/master/Watson%20Assistant%20Continous%20Improvement%20ML%20Best%20Practices%202.pdf)
