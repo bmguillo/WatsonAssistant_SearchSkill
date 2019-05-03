@@ -42,7 +42,7 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 - [Development process:](https://cloud.ibm.com/docs/services/assistant?topic=assistant-dev-process)
 - [Creation of skill versions](https://cloud.ibm.com/docs/services/assistant?topic=assistant-versions)
 - [Improvement via active interactions with assistant](https://cloud.ibm.com/docs/services/assistant?topic=assistant-logs#logs-deploy-id)
--![Continuous Improvement](https://github.com/bmguillo/WatsonAssistant_SearchSkill/blob/master/Watson%20Assistant%20Continous%20Improvement%20ML%20Best%20Practices%202.pdf)
+- [Continuous Improvement](https://github.com/bmguillo/WatsonAssistant_SearchSkill/blob/master/Watson%20Assistant%20Continous%20Improvement%20ML%20Best%20Practices%202.pdf)
 - [Faster training](https://medium.com/ibm-watson/let-watson-train-your-virtual-assistant-57bd53b12bc3)
 
   
