@@ -26,10 +26,7 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 ### Step3 [Connect to Discovery](https://www.youtube.com/watch?v=PxGzh2VrCb4&feature=youtu.be)
 * Connect to an Existing Watson Discovery Service and Existing Collection(Data Source connection or document upload) or Create new Collection
 * Choose carefully the content you upload and quantity
-
-
 * Provision a new instance of Watson Discovery and Create Data Collection(Data Source connection or document upload) 
-https://www.youtube.com/watch?v=PxGzh2VrCb4&feature=youtu.be
 
 ### Step4 Finish Setup in Watson Assistant/Configure App in Watson Assistant options within Watson Discovery 
 - Configure messages to display when results are returned or not returned
@@ -42,10 +39,10 @@ https://www.youtube.com/watch?v=PxGzh2VrCb4&feature=youtu.be
 
 
 ### Other Development Considerations
-- Development process: https://cloud.ibm.com/docs/services/assistant?topic=assistant-dev-process
-- Creation of skill versions https://cloud.ibm.com/docs/services/assistant?topic=assistant-versions
-- Improvement via active interactions with assistant https://cloud.ibm.com/docs/services/assistant?topic=assistant-logs#logs-deploy-id
-- Faster training https://medium.com/ibm-watson/let-watson-train-your-virtual-assistant-57bd53b12bc3
+- [Development process:](https://cloud.ibm.com/docs/services/assistant?topic=assistant-dev-process)
+- [Creation of skill versions](https://cloud.ibm.com/docs/services/assistant?topic=assistant-versions)
+- [Improvement via active interactions with assistant](https://cloud.ibm.com/docs/services/assistant?topic=assistant-logs#logs-deploy-id)
+- [Faster training](https://medium.com/ibm-watson/let-watson-train-your-virtual-assistant-57bd53b12bc3)
 
   
 
