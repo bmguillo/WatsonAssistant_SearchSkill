@@ -1,4 +1,4 @@
-# Using Watson Assistant to perform Long Tail Search in Watson Discovery
+# Using Watson Assistant to perform Long Tail Search(Beta) in Watson Discovery
 
 ## Reasons for Implementing Long Tail Search in Watson Assistant
 
