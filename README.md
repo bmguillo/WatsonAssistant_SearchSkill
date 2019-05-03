@@ -44,6 +44,8 @@ https://www.youtube.com/watch?v=PxGzh2VrCb4&feature=youtu.be
 ### Other Development Considerations
 - Development process: https://cloud.ibm.com/docs/services/assistant?topic=assistant-dev-process
 - Creation of skill versions https://cloud.ibm.com/docs/services/assistant?topic=assistant-versions
+- Improvement via active interactions with assistant https://cloud.ibm.com/docs/services/assistant?topic=assistant-logs#logs-deploy-id
+- Faster training https://medium.com/ibm-watson/let-watson-train-your-virtual-assistant-57bd53b12bc3
 
   
 
