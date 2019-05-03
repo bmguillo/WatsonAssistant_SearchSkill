@@ -28,7 +28,7 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 * Choose carefully the content you upload and quantity
 * Provision a new instance of Watson Discovery and Create Data Collection(Data Source connection or document upload) 
 
-### Step4 Finish Setup in Watson Assistant/Configure App in Watson Assistant options within Watson Discovery 
+### Step4 Click Finish Setup in Watson Assistant/Configure App in Watson Assistant options within Watson Discovery 
 - Configure messages to display when results are returned or not returned
 - Map field in our collection with fields we want to display in our chat window e.g. title--> extracted_metadata.title & body--> text, MUST BE FILLED IN OR IT WILL NOT RETURN ANY RESULTS
   
