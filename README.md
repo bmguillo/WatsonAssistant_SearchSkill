@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=PxGzh2VrCb4&feature=youtu.be
 
 ### Step4 Finish Setup in Watson Assistant/Configure App in Watson Assistant options within Watson Discovery 
 - Configure messages to display when results are returned or not returned
-
+- Map field in our collection with fields we want to display in our chat window e.g. title--> extracted_metadata & body--> text
   
   
 
