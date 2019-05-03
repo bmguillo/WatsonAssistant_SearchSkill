@@ -16,7 +16,7 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 
   
   
-## 3 step tutorial for setting up long tail search
+## 5 step tutorial for setting up long tail search
 
 
 ### Step1 [Create an Assistant](https://cloud.ibm.com/docs/services/assistant?topic=assistant-assistant-add)  
