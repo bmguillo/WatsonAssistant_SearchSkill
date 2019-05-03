@@ -30,7 +30,7 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 
 ### Step4 Finish Setup in Watson Assistant/Configure App in Watson Assistant options within Watson Discovery 
 - Configure messages to display when results are returned or not returned
-- Map field in our collection with fields we want to display in our chat window e.g. title--> extracted_metadata.title & body--> text
+- Map field in our collection with fields we want to display in our chat window e.g. title--> extracted_metadata.title & body--> text, MUST BE FILLED IN OR IT WILL NOT RETURN ANY RESULTS
   
 ### Step5 Test out your search using the try it out feature
 - Modify & test until reach results expected
