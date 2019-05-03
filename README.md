@@ -23,7 +23,15 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 
 ### Step2 Create your skill(s)  https://cloud.ibm.com/docs/services/assistant?topic=assistant-skill-add
 
-### Step3 Connect to an Existing Watson Discovery Service or Provision a new instance of Watson Discovery https://cloud.ibm.com/docs/services/assistant?topic=assistant-skill-search-add
+### Step3 Connect to Discovery
+* Connect to an Existing Watson Discovery Service and Existing Collection(Data Source connection or document upload) or Create new Collection
+
+
+* Provision a new instance of Watson Discovery and Create Data Collection(Data Source connection or document upload) 
+https://www.youtube.com/watch?v=PxGzh2VrCb4&feature=youtu.be
+
+### Step4 Finish Setup in Watson Assistant/Configure App in Watson Assistant options within Watson Discovery 
+- Configure messages to display when results are returned or not returned
 
   
   
