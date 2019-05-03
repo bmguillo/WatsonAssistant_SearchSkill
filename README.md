@@ -12,8 +12,8 @@ In Watson Assistant Plus/Premium, there are two skills. A dialog skill and a sea
 
 ## Pre-requisites:
 - IAM must be set up before provisioning a new instance of Watson Assistant Plus/Premium and Watson Discovery
-- Migration of the Cloud Foundry Watson Assistant/Watson Discovery service must be completed prior to upgrading to the Plus/Premium and existing Watson Assistant premium customers must migrate to IAM by June 2019. 
--See link: https://github.com/bmguillo/IAM_Tutorial
+- Migration of the Cloud Foundry Watson Assistant/Watson Discovery service must be completed prior to upgrading to the Plus/Premium and existing Watson Assistant premium customers must [migrate to IAM](https://github.com/bmguillo/IAM_Tutorial)  by June 2019. 
+
   
   
 ## 3 step tutorial for setting up long tail search
